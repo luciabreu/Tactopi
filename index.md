@@ -1,17 +1,17 @@
 ## Welcome to Tactopi Page 
 
-### Tutorial
+#Tutorial
 Step by step guide to create a playful activity for children with visual impairments.
 
 
-### Sound
+#Sound
 MP3 sound files are availables here
 
-### Map
+#Map
 #Vector Files
 
-### 3D Objects
+#3D Objects
 
-### Story Cards
+#Story Cards
 
 
